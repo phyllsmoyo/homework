@@ -1,8 +1,8 @@
 {
     "python.pythonPath": "/usr/bin/python",
-    "terminal.integrated.fontFamily": "monospace",
-    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.fontFamily": "CaskaydiaCove NF",
     "python.formatting.blackPath": "/home/phyllsmoyo/.local/bin/black",
     "python.formatting.provider": "autopep8",
     "jupyter.jupyterServerType": "local",
+    "terminal.integrated.fontSize": 13,
 }
