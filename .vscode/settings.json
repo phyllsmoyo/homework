@@ -3,6 +3,5 @@
     "terminal.integrated.fontFamily": "CaskaydiaCove NF",
     "python.formatting.blackPath": "/home/phyllsmoyo/.local/bin/black",
     "python.formatting.provider": "autopep8",
-    "jupyter.jupyterServerType": "local",
-    "terminal.integrated.fontSize": 13,
+    "editor.fontFamily": "CaskaydiaCove NF, Consolas, 'Courier New', monospace",
 }
